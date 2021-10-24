@@ -6,6 +6,7 @@
 - JetBrains Mono.
 
 ++
+>=
 
 ### Ligature list
 
