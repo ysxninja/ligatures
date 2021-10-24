@@ -1,7 +1,16 @@
-## Common font supported ligatures
+# Common font supported ligatures
 
+## Fonts That support Ligatures
+- Fira Code.
+- Iosevka.
+- Monoid.
+- Hasklig.
+- JetBrains Mono.
 
 ### Ligature list
+
+
+
 `
 
     ++          + +
