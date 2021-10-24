@@ -5,9 +5,6 @@
 - Hasklig.
 - JetBrains Mono.
 
-++
-==
-
 ### Ligature list
 
     ++          + +
