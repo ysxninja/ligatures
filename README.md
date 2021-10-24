@@ -1,2 +1,3 @@
-# ligatures
+## ligatures
+
 Common font supported ligatures

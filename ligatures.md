@@ -1,0 +1,1 @@
+/home/yasuke/vimwiki/features/ligatures.md
