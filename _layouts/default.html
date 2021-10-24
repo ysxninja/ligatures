@@ -11,7 +11,13 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tonsky/FiraCode@5.2/distr/fira_code.css">
-
+    
+    </style>
+      code { font-family: 'Fira Code', monospace; }
+      @supports (font-variation-settings: normal) {
+          code { font-family: 'Fira Code VF', monospace; }
+      }
+    </style>
   </head>
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
