@@ -1,5 +1,3 @@
-# Common font supported ligatures
-
 ## Fonts That support Ligatures
 - Fira Code.
 - Iosevka.
