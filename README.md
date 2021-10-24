@@ -1,7 +1,6 @@
 **Common font supported ligatures**
 
 ## Ligature list
-`
 
     ++          + +
 
@@ -208,5 +207,3 @@
     _|_         _ | _
 
     %%          % %
-`
-## end
