@@ -1,4 +1,4 @@
-**Common font supported ligatures**
+[Ys-ligatures](https://ya-suke.github.io/ligatures/)
 
 ## Ligature list
 
