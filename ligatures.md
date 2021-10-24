@@ -1,4 +1,5 @@
-## Ligature list `
+## Ligature list
+`
 
     ++          + +
 
