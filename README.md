@@ -1,4 +1,4 @@
-[Ys-ligatures](https://ya-suke.github.io/ligatures/)
+[Ys-ligatures](https://ysxninja.github.io/ligatures/)
 
 ## Ligature list
 
